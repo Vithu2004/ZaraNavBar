@@ -1,0 +1,26 @@
+.navbar-collection-drop-down-menu{
+    position: absolute;
+    left: 1065px;
+    top: 63px;
+    content: '';
+    width: 240px;
+    height: 160px;
+    background: #EDE3DA;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 8px;
+    border-radius: 4px;
+    box-shadow: 0 4px 4px black ;
+
+}
+
+.navbar-collection-list-item{
+    height: 36px;
+    color: #3C3A36;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    margin-left: 16px;
+}
+
